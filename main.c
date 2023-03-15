@@ -15,8 +15,13 @@ pseudo code
     // Sample Code
   }
 
+ 
   // code from feature 1 branch
   Featuer1()
+ 
+  // code from feature 2 branch
+  Feature2()
+  
   {
   }
 }
